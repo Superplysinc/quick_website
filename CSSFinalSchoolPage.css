@@ -1,0 +1,11 @@
+body {
+  margin: 0 auto;
+  max-width: 60em;
+  line-height: 1.5;
+}
+p{
+  font-family: "Helvetica", "Arial", sans-serif;
+}
+a{
+  word-spacing: 10;
+}
